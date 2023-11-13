@@ -1,0 +1,232 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Electronics",
+            "image": "electronics.png",
+            "products": [
+                {
+                    "id": 101,
+                    "name": "Laptop",
+                    "image": "laptop.png",
+                    "price": 999.99,
+                    "isAvailable": false,
+                    "description": "Great laptop with a high-resolution display and powerful processor."
+                },
+                {
+                    "id": 102,
+                    "name": "Smartphone",
+                    "image": "smartphone.png",
+                    "price": 599.99,
+                    "isAvailable": true,
+                    "description": "Sleek smartphone with a user-friendly interface and high-quality camera."
+                },
+                {
+                    "id": 103,
+                    "name": "Smartwatch",
+                    "image": "smartwatch.png",
+                    "price": 299.99,
+                    "isAvailable": true,
+                    "description": "Versatile smartwatch with fitness tracking and notifications."
+                },
+                {
+                    "id": 104,
+                    "name": "Camera",
+                    "image": "camera.png",
+                    "price": 459.99,
+                    "isAvailable": true,
+                    "description": "High-performance camera perfect for both amateurs and professionals."
+                },
+                {
+                    "id": 105,
+                    "name": "Tablet",
+                    "image": "tablet.png",
+                    "price": 329.99,
+                    "isAvailable": true,
+                    "description": "Portable tablet with stunning graphics and long battery life."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Clothing",
+            "image": "clothing.png",
+            "products": [
+                {
+                    "id": 201,
+                    "name": "T-Shirt",
+                    "image": "t-shirt.png",
+                    "price": 29.99,
+                    "isAvailable": true,
+                    "description": "Comfortable t-shirt made from 100% organic cotton."
+                },
+                {
+                    "id": 202,
+                    "name": "Jeans",
+                    "image": "jeans.png",
+                    "price": 49.99,
+                    "isAvailable": false,
+                    "description": "Stylish jeans with a modern fit and durable fabric."
+                },
+                {
+                    "id": 203,
+                    "name": "Jacket",
+                    "image": "jacket.png",
+                    "price": 89.99,
+                    "isAvailable": true,
+                    "description": "Warm and waterproof jacket suitable for all seasons."
+                },
+                {
+                    "id": 204,
+                    "name": "Sneakers",
+                    "image": "sneakers.png",
+                    "price": 59.99,
+                    "isAvailable": true,
+                    "description": "Trendy sneakers with excellent support and comfort."
+                },
+                {
+                    "id": 205,
+                    "name": "Hat",
+                    "image": "hat.png",
+                    "price": 19.99,
+                    "isAvailable": true,
+                    "description": "Fashionable hat that complements any outfit."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Toys",
+            "image": "toys.png",
+            "products": [
+                {
+                    "id": 301,
+                    "name": "Lego Set",
+                    "image": "lego.png",
+                    "price": 59.99,
+                    "isAvailable": true,
+                    "description": "Creative Lego set that sparks the imagination of children."
+                },
+                {
+                    "id": 302,
+                    "name": "Doll",
+                    "image": "doll.png",
+                    "price": 15.99,
+                    "isAvailable": true,
+                    "description": "Charming doll with lifelike features and accessories."
+                },
+                {
+                    "id": 303,
+                    "name": "Board Game",
+                    "image": "boardgame.png",
+                    "price": 34.99,
+                    "isAvailable": false,
+                    "description": "Engaging board game that provides hours of fun for the whole family."
+                },
+                {
+                    "id": 304,
+                    "name": "Action Figure",
+                    "image": "action_figure.png",
+                    "price": 22.99,
+                    "isAvailable": true,
+                    "description": "Detailed action figure, a must-have for collectors."
+                },
+                {
+                    "id": 305,
+                    "name": "Puzzle",
+                    "image": "puzzles.png",
+                    "price": 12.99,
+                    "isAvailable": true,
+                    "description": "Challenging puzzle that offers a great way to sharpen the mind."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Furniture",
+            "image": "furniture.png",
+            "products": [
+                {
+                    "id": 401,
+                    "name": "Chair",
+                    "image": "chair.png",
+                    "price": 49.99,
+                    "isAvailable": true,
+                    "description": "Ergonomic chair with adjustable height and lumbar support."
+                },
+                {
+                    "id": 402,
+                    "name": "Desk",
+                    "image": "desk.png",
+                    "price": 199.99,
+                    "isAvailable": true,
+                    "description": "Spacious desk with a clean design, ideal for home offices."
+                },
+                {
+                    "id": 403,
+                    "name": "Sofa",
+                    "image": "sofa.png",
+                    "price": 499.99,
+                    "isAvailable": false,
+                    "description": "Comfortable sofa with plush cushions and a durable frame."
+                },
+                {
+                    "id": 404,
+                    "name": "Bed",
+                    "image": "bed.png",
+                    "price": 299.99,
+                    "isAvailable": true,
+                    "description": "Stylish bed with a sturdy construction and modern design."
+                },
+                {
+                    "id": 405,
+                    "name": "Wardrobe",
+                    "image": "wardrobe.png",
+                    "price": 239.99,
+                    "isAvailable": true,
+                    "description": "Spacious wardrobe with multiple compartments for organized storage."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Food",
+            "image": "food.png",
+            "products": [
+                {
+                    "id": 501,
+                    "name": "Chocolate",
+                    "image": "chocolate.png",
+                    "price": 2.99,
+                    "isAvailable": true,
+                    "description": "Delicious chocolate bar with a smooth and rich flavor."
+                },
+                {
+                    "id": 502,
+                    "name": "Bread",
+                    "image": "bread.png",
+                    "price": 1.99,
+                    "isAvailable": true,
+                    "description": "Freshly baked bread with a perfect crust and soft center."
+                },
+                {
+                    "id": 503,
+                    "name": "Cheese",
+                    "image": "cheese.png",
+                    "price": 4.99,
+                    "isAvailable": false,
+                    "description": "Aged cheese with a bold taste and creamy texture."
+                },
+                {
+                    "id": 504,
+                    "name": "Wine",
+                    "image": "wine.png",
+                    "price": 19.99,
+                    "isAvailable": true,
+                    "description": "Fine wine with a balanced bouquet and notes of oak."
+                }
+            ]
+        }
+    ]
+}
+          
